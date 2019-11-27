@@ -13,7 +13,7 @@
 
 <br>
 
-<strong><i>Introduction</strong></i>
+<strong><i>Introduction</strong></i>  <br>
 This submission is a project which I produced as apart of my ongoing studies at GMIT for my course "H. Dip in Data Analytics".
 <br>
 The nature of this project is to show the knowledge gained relating to REST API's 
