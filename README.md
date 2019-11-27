@@ -6,9 +6,14 @@ Project for Data Representation module
 <br>
 ---
 ---
+<br>
+
 ### Valerie Walsh G00364748
 <br>
+
 ---
+<br>
+
 #### Submission Date 20th Dec '19
 ---
 <br>
