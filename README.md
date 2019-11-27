@@ -1,10 +1,9 @@
-## GMIT - college submission
-## Module: Data Representation
+# Web Application Project
+# GMIT - college submission
+# Module: Data Representation
 
-<br>
-
-### Valerie Walsh G00364748
-### Submission Date 20th Dec '19
+## Valerie Walsh G00364748
+## Submission Date 20th Dec '19
 
 <br>
 
