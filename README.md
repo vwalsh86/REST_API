@@ -10,4 +10,4 @@ Project for Data Representation module
 
 <br>
 
-<i>Introduction<i>
+<strong><i>Introduction</strong></i>
