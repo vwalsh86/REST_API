@@ -3,8 +3,8 @@ Project for Data Representation module
 
 ## GMIT 
 ## Module: Data Representation
-<br>
----
+
+___
 
 <br>
 ### Valerie Walsh G00364748
