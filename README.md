@@ -31,5 +31,5 @@ The nature of this project is to portray the knowledge gained relating to REST A
 
 * Computers can come with a pre-installed command line interpreter app based on their operating system. Windows has Command Prompt and Mac has Terminal. There are other alternatives available should you wish to install them from the internet. I have always chosen to use the built in application purely to keep things simple with my studies. 
 
-- Once installed, you can make calls to Python through the command line in order to carry out desired requests. For more information relating to this please review the Python documentation: https://www.python.org/ & https://docs.python.org/3/using/cmdline.html
+* Once installed, you can make calls to Python through the command line in order to carry out desired requests. For more information relating to this please review the Python documentation: https://www.python.org/ & https://docs.python.org/3/using/cmdline.html
 
