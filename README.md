@@ -1,16 +1,14 @@
-# REST_API
-Project for Data Representation module
-
-## GMIT 
+## GMIT - college submission
 ## Module: Data Representation
-<br>
-
-![Flask icon](flask.png)
 
 <br>
 
 ### Valerie Walsh G00364748
 ### Submission Date 20th Dec '19
+
+<br>
+
+![Flask icon](flask.png)
 
 <br>
 
