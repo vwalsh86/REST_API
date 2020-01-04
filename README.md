@@ -44,7 +44,7 @@ References:
 3. https://docs.python.org/3/using/cmdline.html
 4. https://www.mysql.com/
 5. https://code.visualstudio.com/
-6.. https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Introduction
+6. https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Introduction
 7. https://any-api.com/
 8. https://dev.mysql.com/doc/connector-odbc/en/connector-odbc-examples-programming-vb-dao.html
 9. https://www.w3schools.com/php/php_mysql_intro.asp
